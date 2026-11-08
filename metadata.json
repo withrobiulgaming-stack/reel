@@ -1,0 +1,6 @@
+{
+  "name": "Shortly",
+  "description": "Short Video Social Media Platform inspired by TikTok and Reels, featuring vertical feeds, creator studio, interactive social engagement, and monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
